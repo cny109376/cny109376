@@ -1,6 +1,6 @@
 # TWStockRS｜台股相對強弱輪動分析
 
-<img src="images/twstockrs-brand.png" alt="TWStockRS 品牌圖" width="520">
+<img src="images/twstockrs-brand.png" alt="TWStockRS 品牌圖" width="280">
 
 TWStockRS 是用來觀察台股個股與產業相對強弱變化的本機網站原型。圖表將標的放在「領先、轉弱、落後、改善」四個象限，並以路徑呈現不同日期的位置變化。
 
