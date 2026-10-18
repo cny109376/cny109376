@@ -8,11 +8,11 @@ TWStockRS 是用來觀察台股個股與產業相對強弱變化的本機網站�
 
 ## 介面展示
 
-### Pro：日頻最大設定
+### Anonymous（匿名）：日頻固定設定
 
-Period（觀察期間）**240D**、Trail（最多顯示的軌跡點數）**240**。Pro 版提供週頻、播放及進階比較設定。
+Period 固定 **20D**、Trail 固定 **5**，清單最多 **5 個標的**。觀察清單、儲存檢視、匯出與播放會顯示鎖定狀態。
 
-![Pro 日頻介面示意：240D／240 點，模擬資料](images/pro-daily-max-demo.png)
+![匿名日頻介面示意：20D／5 點，模擬資料](images/anonymous-daily-max-demo.png)
 
 ### Free：日頻最大設定
 
@@ -20,11 +20,11 @@ Period **120D**、Trail **20**。可操作圖表、管理觀察清單與儲存�
 
 ![Free 日頻介面示意：120D／20 點，模擬資料](images/free-daily-max-demo.png)
 
-### Anonymous（匿名）：日頻固定設定
+### Pro：日頻最大設定
 
-Period 固定 **20D**、Trail 固定 **5**，清單最多 **5 個標的**。觀察清單、儲存檢視、匯出與播放會顯示鎖定狀態。
+Period（觀察期間）**240D**、Trail（最多顯示的軌跡點數）**240**。Pro 版提供週頻、播放及進階比較設定。
 
-![匿名日頻介面示意：20D／5 點，模擬資料](images/anonymous-daily-max-demo.png)
+![Pro 日頻介面示意：240D／240 點，模擬資料](images/pro-daily-max-demo.png)
 
 ### Pro：週頻最大設定
 
